@@ -1,0 +1,13 @@
+{
+    "patients": [{
+        "notes": "",
+        "dob": "12/11/1999",
+        "phn": "1234567890",
+        "name": "Jeff Ho"
+    }],
+    "conditions": [{
+        "chrNum": 10,
+        "name": "Genetic Condition A",
+        "seq": "ATGCATGC"
+    }]
+}

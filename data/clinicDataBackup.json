@@ -1,0 +1,28 @@
+{
+  "patients": [
+    {
+      "notes": "",
+      "dob": "12/11/1989",
+      "phn": "1234567890",
+      "name": "Jeff Ho"
+    },
+    {
+      "notes": "",
+      "dob": "11/11/1888",
+      "phn": "2310529181",
+      "name": "Jeffrey"
+    }
+  ],
+  "conditions": [
+    {
+      "chrNum": 23,
+      "name": "Genetic Condition A",
+      "seq": "ATGCATGCATGC"
+    },
+    {
+      "chrNum": 21,
+      "name": "Genetic Condition B",
+      "seq": "TGACTACG"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "conditions" : [
+    {
+      "name": "Genetic Condition A",
+      "seq": "ACATGCATG",
+      "chrNum": 10
+    },
+    {
+      "name": "Genetic Condition B",
+      "seq": "TGACGTTAA",
+      "chrNum": 5
+    },
+    {
+      "name": "Genetic Condition C",
+      "seq": "ATATATATA",
+      "chrNum": 7
+    }
+  ],
+  "patients": [
+    {
+      "name": "Jeff Ho",
+      "dob": "11/11/1999",
+      "phn": "1091239501",
+      "notes": "Patient is in satisfactory condition."
+    },
+    {
+      "name": "David Becker",
+      "dob": "12/12/2001",
+      "phn": "2310529181",
+      "notes": "Patient is in healthy condition."
+    },
+    {
+      "name": "Ryan Boe",
+      "dob": "09/23/1950",
+      "phn": "1618234512",
+      "notes": "Patient is in critical condition. Sent to hospital for observation."
+    }
+  ]
+}
